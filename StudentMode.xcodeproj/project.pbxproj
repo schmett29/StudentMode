@@ -150,6 +150,7 @@
 		63E7DBCA1AA2E32400339642 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "David Schmetterling";
 				TargetAttributes = {
@@ -393,6 +394,7 @@
 				63E7DBEE1AA2E32400339642 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		63E7DBEF1AA2E32400339642 /* Build configuration list for PBXNativeTarget "StudentModeTests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +403,7 @@
 				63E7DBF11AA2E32400339642 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
